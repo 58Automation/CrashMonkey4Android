@@ -17,22 +17,6 @@
 <configuration description="Runs a CTS plan from a pre-existing CTS installation" >
 
     <option
-        name="wifiSsdk"
-        value="58-guest" />
-
-    <option
-        name="wifiPsk"
-        value="58shenqi" />
-
-   <!--  <option
-        name="p"
-        value="com.wuba" />
-
-    <option
-        name="a"
-        value="com.wuba.activity.launch.LaunchActivity" />
- -->
-    <option
         name="v"
         value="20" />
 
@@ -45,9 +29,6 @@
         name="throttle"
         value="300" 
         desc="默认为300毫秒"/>
-
-    
-   
 
     <option
         name="reboot"
